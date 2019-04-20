@@ -9,3 +9,14 @@
 **Link(s) to work**
 1. [Code](https://github.com/tamamu/100-days-of-code/commit/9cc8d4f6ab1c4372a1c5044b704b1f80f12e2eca)
 2. [Reference of `swap` Method](https://doc.rust-lang.org/std/vec/struct.Vec.html#method.swap)
+
+
+### Day 2: April 20, 2019
+
+**Today's Progress**: I've solved a problem on LeetCode.
+
+**Thoughts** There may exist a more memory-efficient way because my implementation has cloned each element. I think the most efficient way is unsafe. To implement recursive structures are my challenge.
+
+**Link(s) to work**
+1. [Code](https://github.com/tamamu/100-days-of-code/commit/3a4868867eecf60355230ca337979bbef3a68c0c)
+2. [Reference of `Display` Trait](https://doc.rust-lang.org/std/fmt/trait.Display.html)
