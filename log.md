@@ -20,3 +20,20 @@
 **Link(s) to work**
 1. [Code](https://github.com/tamamu/100-days-of-code/commit/3a4868867eecf60355230ca337979bbef3a68c0c)
 2. [Reference of `Display` Trait](https://doc.rust-lang.org/std/fmt/trait.Display.html)
+
+
+### Day 3: April 21, 2019
+
+**Today's Progress**: I've solved a problem on LeetCode.
+
+**Thoughts** First, memoization in Rust is more difficult than other languages! The global variable regulated to be sized in Rust, just like C. Second, using `Box` pointer is also difficult for recursive problem like Linked List. In this case, dividing into initial process and the remainder was key point to solve problem recursively.
+
+**Link(s) to work**
+1. [Pascal's Triangle1](https://github.com/tamamu/100-days-of-code/commit/40e249cc5b855841c6f0a2d6262a2ac012445131)
+2. [Pascal's Triangle2 (memoized)](https://github.com/tamamu/100-days-of-code/commit/e75df4b6a89270087200846c273fde1efce54493)
+3. [Pascal's Triangle3](https://github.com/tamamu/100-days-of-code/commit/d86e3a9b2ebf7f739d864f0f369374e894f1be82)
+4. [Reverse Linked List](https://github.com/tamamu/100-days-of-code/commit/d818f60e17fb77e2caf10a4cd1882c448dac6c43)
+5. [Rust 0ms Iterative](https://leetcode.com/explore/learn/card/recursion-i/251/scenario-i-recurrence-relation/2378/discuss/225512/Rust-0ms-Iterative)
+6. [Reverse a list in Scala](http://www.thedigitalcatonline.com/blog/2015/04/07/99-scala-problems-05-reverse/#the-recursive-solution)
+7. [Reference of `Option::take` Method](https://doc.rust-lang.org/std/option/enum.Option.html#method.take)
+8. [Reference of Primitive `array` Type](https://doc.rust-lang.org/std/primitive.array.html)
