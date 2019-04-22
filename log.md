@@ -37,3 +37,15 @@
 6. [Reverse a list in Scala](http://www.thedigitalcatonline.com/blog/2015/04/07/99-scala-problems-05-reverse/#the-recursive-solution)
 7. [Reference of `Option::take` Method](https://doc.rust-lang.org/std/option/enum.Option.html#method.take)
 8. [Reference of Primitive `array` Type](https://doc.rust-lang.org/std/primitive.array.html)
+
+
+### Day 4: April 22, 2019
+
+**Today's Progress**: I've solved a problem on LeetCode.
+
+**Thoughts** I know that `lazy_static` macro is commonly used for memoization, but it may not be able to use that on LeetCode. What else can I do memoization with unsized cache without `lazy_static`?
+
+**Link(s) to work**
+1. [Fibonacci Number](https://github.com/tamamu/100-days-of-code/commit/81cf70ff2aa5901227d7499e57c6222d1a5e5bb2)
+2. [Climbing Stairs](https://github.com/tamamu/100-days-of-code/commit/19d9f3c0c45b13c44d6b1cbd841f86b705e26773)
+3. [Reference of `thread_local!` Macro](https://doc.rust-lang.org/std/thread/struct.LocalKey.html)
