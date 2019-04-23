@@ -49,3 +49,15 @@
 1. [Fibonacci Number](https://github.com/tamamu/100-days-of-code/commit/81cf70ff2aa5901227d7499e57c6222d1a5e5bb2)
 2. [Climbing Stairs](https://github.com/tamamu/100-days-of-code/commit/19d9f3c0c45b13c44d6b1cbd841f86b705e26773)
 3. [Reference of `thread_local!` Macro](https://doc.rust-lang.org/std/thread/struct.LocalKey.html)
+
+
+### Day 5: April 23, 2019
+
+**Today's Progress**: I've solved a problem on LeetCode, and done an experiment to confirm `n % 2 == 1` is equivalent to `n & 1 == 1`.
+
+**Thoughts** It's a bit difficult to calculate time complexity and space complexity of recursive function. I don't know Rustlang supports tail recursion optimization, but it seems to be enable for release building.
+
+**Link(s) to work**
+1. [Maximum Depth of Binary Tree](https://github.com/tamamu/100-days-of-code/commit/2f32dbfd1f1ca1edd180d9ae60d987f05a9be670)
+2. [Pow(x, n)](https://github.com/tamamu/100-days-of-code/commit/74f47c0acd964287679c961b6002db2dc010ddf9)
+3. [Rust Trick Solution of Pow(x, n)](https://leetcode.com/explore/learn/card/recursion-i/256/complexity-analysis/2380/discuss/243952/Rust-Tricky-Solution)
