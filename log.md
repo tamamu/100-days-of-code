@@ -61,3 +61,13 @@
 1. [Maximum Depth of Binary Tree](https://github.com/tamamu/100-days-of-code/commit/2f32dbfd1f1ca1edd180d9ae60d987f05a9be670)
 2. [Pow(x, n)](https://github.com/tamamu/100-days-of-code/commit/74f47c0acd964287679c961b6002db2dc010ddf9)
 3. [Rust Trick Solution of Pow(x, n)](https://leetcode.com/explore/learn/card/recursion-i/256/complexity-analysis/2380/discuss/243952/Rust-Tricky-Solution)
+
+
+### Day 6: April 24, 2019
+
+**Today's Progress**: I've solved a problem on LeetCode.
+
+**Thoughts** I've gotten used to write recursive function related to List and Tree! Option's `take` method is useful to manage ownership of elements in recursive structure.
+
+**Link(s) to work**
+1. [Code](https://github.com/tamamu/100-days-of-code/commit/24fc255fccc861ecc2f70a86cba0098467bc9874)
