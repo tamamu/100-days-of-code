@@ -71,3 +71,13 @@
 
 **Link(s) to work**
 1. [Code](https://github.com/tamamu/100-days-of-code/commit/24fc255fccc861ecc2f70a86cba0098467bc9874)
+
+
+### Day 7: April 25, 2019
+
+**Today's Progress**: I've solved a problem on LeetCode.
+
+**Thoughts** Thinking `base case` and `recurrence relation` helps to solve the problem, K-th Symbol in Grammar. First I tried to generate each row recursively, but it took too many memory space, and caused Memory Limit Exceeded! Then I discovered each of rows is a concatenation of the previous row and the inverted.
+
+**Link(s) to work**
+1. [Code](https://github.com/tamamu/100-days-of-code/commit/eca2247dd18e1ce3db74c0fcad956255e4a748f1)
