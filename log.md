@@ -81,3 +81,14 @@
 
 **Link(s) to work**
 1. [Code](https://github.com/tamamu/100-days-of-code/commit/eca2247dd18e1ce3db74c0fcad956255e4a748f1)
+
+
+### Day 8: April 25, 2019
+
+**Today's Progress**: I've solved a problem on LeetCode.
+
+**Thoughts** It was very difficult for me to solve! I thought I should take an element as root, then I should concatenate another element as the parent or the child. Maybe I didn't miss the mark so much, but it was reckless to deal with a node recursively. In the end, I referenced an example written in JavaScript.
+
+**Link(s) to work**
+1. [Code](https://github.com/tamamu/100-days-of-code/commit/939bfb256a7517ae88d24e91d922634fba7701d2)
+2. [JavaScript DFS with Memo](https://leetcode.com/explore/learn/card/recursion-i/253/conclusion/2384/discuss/151394/JavaScript-DFS-with-Memo)
