@@ -92,3 +92,13 @@
 **Link(s) to work**
 1. [Code](https://github.com/tamamu/100-days-of-code/commit/939bfb256a7517ae88d24e91d922634fba7701d2)
 2. [JavaScript DFS with Memo](https://leetcode.com/explore/learn/card/recursion-i/253/conclusion/2384/discuss/151394/JavaScript-DFS-with-Memo)
+
+
+### Day 9: April 27, 2019
+
+**Today's Progress**: I've solved a problem on LeetCode.
+
+**Thoughts** It was not so difficult, but I didn't have enough time to solve other problems because of my laziness...
+
+**Link(s) to work**
+1. [Code](https://github.com/tamamu/100-days-of-code/commit/9fcbc3ec9a2e51deff9e72f4696689ea9e84e127)
