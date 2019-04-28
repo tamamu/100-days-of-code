@@ -102,3 +102,15 @@
 
 **Link(s) to work**
 1. [Code](https://github.com/tamamu/100-days-of-code/commit/9fcbc3ec9a2e51deff9e72f4696689ea9e84e127)
+
+
+### Day 10: April 28, 2019
+
+**Today's Progress**: I've solved a problem on LeetCode.
+
+**Thoughts** It's my first time to use `drain` method for `Vec`! Actually, I didn't know how to use that. Today's problems are not so difficult for me.
+
+**Link(s) to work**
+1. [Inorder Traversal](https://github.com/tamamu/100-days-of-code/commit/48eddc8fee3fef0254daf6b3618029a02779d276)
+1. [Postorder Traversal](https://github.com/tamamu/100-days-of-code/commit/33015ab11d2b26873c782c6b5dc2f6605febc17d)
+1. [Level Order Traversal](https://github.com/tamamu/100-days-of-code/commit/ef0146db0f0b43eec38e48b37c002093c09e5fd8)
