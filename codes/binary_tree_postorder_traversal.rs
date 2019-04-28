@@ -25,10 +25,10 @@ impl Solution {
             let borrowed = node.borrow();
             let mut left = Solution::postorder_traversal(borrowed.left.clone());
             let mut right = Solution::postorder_traversal(borrowed.right.clone());
-            for v in left.drain(0..) {
+            for v in left.into_iter() {
                 result.push(v);
             }
-            for v in right.drain(0..) {
+            for v in right.into_iter() {
                 result.push(v);
             }
             result.push(borrowed.val);

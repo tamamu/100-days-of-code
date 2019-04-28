@@ -24,12 +24,12 @@ impl Solution {
         if let Some(node) = root {
             let borrowed = node.borrow();
             let mut left = Solution::inorder_traversal(borrowed.left.clone());
-            for v in left.drain(0..) {
+            for v in left.into_iter() {
                 result.push(v);
             }
             result.push(borrowed.val);
             let mut right = Solution::inorder_traversal(borrowed.right.clone());
-            for v in right.drain(0..) {
+            for v in right.into_iter() {
                 result.push(v);
             }
         }
