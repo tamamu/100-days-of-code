@@ -108,7 +108,7 @@
 
 **Today's Progress**: I've solved a problem on LeetCode.
 
-**Thoughts** It's my first time to use `drain` method for `Vec`! Actually, I didn't know how to use that. Today's problems are not so difficult for me.
+**Thoughts** It's my first time to use `drain` method for `Vec`! Actually, I didn't know how to use that. Today's problems are not so difficult for me. P.S. I was misunderstanding `drain` method, it's similar to `Option::take`, move the elements of the sequence to other variable.
 
 **Link(s) to work**
 1. [Inorder Traversal](https://github.com/tamamu/100-days-of-code/commit/48eddc8fee3fef0254daf6b3618029a02779d276)
