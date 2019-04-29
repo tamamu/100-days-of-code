@@ -114,3 +114,14 @@
 1. [Inorder Traversal](https://github.com/tamamu/100-days-of-code/commit/48eddc8fee3fef0254daf6b3618029a02779d276)
 1. [Postorder Traversal](https://github.com/tamamu/100-days-of-code/commit/33015ab11d2b26873c782c6b5dc2f6605febc17d)
 1. [Level Order Traversal](https://github.com/tamamu/100-days-of-code/commit/ef0146db0f0b43eec38e48b37c002093c09e5fd8)
+
+
+### Day 11: April 29, 2019
+
+**Today's Progress**: I've solved a problem on LeetCode.
+
+**Thoughts** I've gotten used to tree manipulation. By the way, I typed a tree of the test case every time, so it's bothersome! I think to create new snippets to reduce amount of typing.
+
+**Link(s) to work**
+1. [Symmetric Tree](https://github.com/tamamu/100-days-of-code/commit/4f37f2dd918e350b76b3b4565d18810dbbcf07cc)
+1. [Path Sum](https://github.com/tamamu/100-days-of-code/commit/4f95672cf6b30dab14fa8d474e7694f3ef799446)
