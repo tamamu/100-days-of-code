@@ -125,3 +125,14 @@
 **Link(s) to work**
 1. [Symmetric Tree](https://github.com/tamamu/100-days-of-code/commit/4f37f2dd918e350b76b3b4565d18810dbbcf07cc)
 1. [Path Sum](https://github.com/tamamu/100-days-of-code/commit/4f95672cf6b30dab14fa8d474e7694f3ef799446)
+
+
+### Day 11: April 29, 2019
+
+**Today's Progress**: I've solved a problem on LeetCode.
+
+**Thoughts** I didn't come up with the solution by myself, so I referenced a Python solution as below. My code is very unlike Rust! I've used too many `clone` method...
+
+**Link(s) to work**
+1. [Code](https://github.com/tamamu/100-days-of-code/commit/7c2e18e9d764794ec7ccfbf038be936b75e6efb2)
+1. [A Python recursive solution](https://leetcode.com/explore/learn/card/data-structure-tree/133/conclusion/942/discuss/34814/A-Python-recursive-solution)
