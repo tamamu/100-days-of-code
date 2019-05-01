@@ -136,3 +136,13 @@
 **Link(s) to work**
 1. [Code](https://github.com/tamamu/100-days-of-code/commit/7c2e18e9d764794ec7ccfbf038be936b75e6efb2)
 1. [A Python recursive solution](https://leetcode.com/explore/learn/card/data-structure-tree/133/conclusion/942/discuss/34814/A-Python-recursive-solution)
+
+
+### Day 13: May 1, 2019
+
+**Today's Progress**: I've solved a problem on LeetCode.
+
+**Thoughts** I referenced yesterday solution, and today's solution is almost as it is... I want to understand the problem more detail.
+
+**Link(s) to work**
+1. [Code](https://github.com/tamamu/100-days-of-code/commit/b809bfb021060b08c5ea03d39776e5634d9f4eb7)
