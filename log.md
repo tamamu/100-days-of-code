@@ -157,3 +157,4 @@
 **Link(s) to work**
 1. [Inorder and Postorder](https://github.com/tamamu/100-days-of-code/commit/19a12664a93d2ab1b849eaf26866c87968b4753e)
 1. [Preorder and Inorder](https://github.com/tamamu/100-days-of-code/commit/1914296c1f4927a2a62f2e08f26ac7e05988fb03)
+1. ![Tree traversal](figures/14.jpg)
