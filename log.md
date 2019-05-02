@@ -146,3 +146,14 @@
 
 **Link(s) to work**
 1. [Code](https://github.com/tamamu/100-days-of-code/commit/b809bfb021060b08c5ea03d39776e5634d9f4eb7)
+
+
+### Day 14: May 2, 2019
+
+**Today's Progress**: I've solved previous two problems on LeetCode again. 
+
+**Thoughts** I've completely understood tree traversal and building! I drew a figure of traversal, and it helped for better understanding. Also I've been able to write the solution just like Rust, so I enjoyed to solve it very much!
+
+**Link(s) to work**
+1. [Inorder and Postorder](https://github.com/tamamu/100-days-of-code/commit/19a12664a93d2ab1b849eaf26866c87968b4753e)
+1. [Preorder and Inorder](https://github.com/tamamu/100-days-of-code/commit/1914296c1f4927a2a62f2e08f26ac7e05988fb03)
