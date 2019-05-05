@@ -178,3 +178,13 @@
 **Link(s) to work**
 1. [Code](https://github.com/tamamu/algonote/commit/000ca9d6ce8d6cf2be585a145eacafbd870efd7c)
 
+
+### Day 17: May 5, 2019
+
+**Today's Progress**: I've tried to solve a cutting stock problem.
+
+**Thoughts** I've implemented the algorithm which works to some extent. The issue I noticed is to consider tolerance of length of stocks. I've been satisfied to my solution for now.
+
+**Link(s) to work**
+1. [Code](https://gist.github.com/tamamu/40b7ffdf8d1b451297dee2e4d78fbb91)
+
