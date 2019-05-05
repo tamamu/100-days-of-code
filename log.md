@@ -168,3 +168,13 @@
 
 **Link(s) to work**
 1. [Code](https://github.com/tamamu/100-days-of-code/commit/f6f06de61c253721ac415eaaa0eed34b7734a169)
+
+### Day 16: May 4, 2019
+
+**Today's Progress**: I've joined GCJ Round 1-C and AGC033.
+
+**Thoughts** I couldn't solve any problem at GCJ... I should have tried brute-force solution. Then I've solved the problem A at AGC033! And I tried the problem C, but I didn't have enough time, so I couldn't.
+
+**Link(s) to work**
+1. [Code](https://github.com/tamamu/algonote/commit/000ca9d6ce8d6cf2be585a145eacafbd870efd7c)
+
