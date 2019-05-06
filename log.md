@@ -188,3 +188,13 @@
 **Link(s) to work**
 1. [Code](https://gist.github.com/tamamu/40b7ffdf8d1b451297dee2e4d78fbb91)
 
+
+### Day 18: May 6, 2019
+
+**Today's Progress**: I've solved GCJ2019-1B-A.
+
+**Thoughts** I tried brute-force solution, it has been passed😂
+
+**Link(s) to work**
+1. [Code](https://github.com/tamamu/algonote/commit/63bc6a18c4c54e699931df35c005d7a4fce7c81f)
+
