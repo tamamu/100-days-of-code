@@ -198,3 +198,14 @@
 **Link(s) to work**
 1. [Code](https://github.com/tamamu/algonote/commit/63bc6a18c4c54e699931df35c005d7a4fce7c81f)
 
+
+### Day 19: May 7, 2019
+
+**Today's Progress**: I've solved a problems on LeetCode. 
+
+**Thoughts** I've solved with referencing the discussion as below. Then I understand the algorithm with drawing a figure which represents running processes.
+
+**Link(s) to work**
+1. [Code](https://github.com/tamamu/100-days-of-code/commit/63591121f3a73d384e9d8250c09d194eb09f9a2e)
+1. [Concise 14 line of C++ using BFS and constant space](https://leetcode.com/explore/learn/card/data-structure-tree/133/conclusion/1016/discuss/182343/Concise-14-line-of-C++-using-BFS-and-constant-space)
+1. ![Traversal](figures/19.jpg)
